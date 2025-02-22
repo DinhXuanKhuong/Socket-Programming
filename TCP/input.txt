@@ -1,0 +1,3 @@
+10MB.zip
+image.jpg
+Test File 1GB.bin
